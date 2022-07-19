@@ -1,1 +1,3 @@
 # pandas-challenge
+
+The pandas challenge asks for analysis of district-wide standaradized test scores. Included in the data are values regarding school size, type, and budget. Using the files provided, the data is merged together before being analyzed. The analysis is shown in graph form, showing an overall summary of the data, summaries of each schools performance, top and lowest performing school summaries, grade dependent math and reading scores, budget per student anaylsis, school size analysis, and school type analysis. Included in the files are observations regarding the analysis of the data provided.
